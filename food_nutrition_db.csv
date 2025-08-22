@@ -114,7 +114,6 @@ Guava Juice,100,2,0.2,23
 Lemon Juice,90,1,0.1,22
 Peach Juice,110,1,0.2,26
 Pear Juice,115,1,0.2,27
-Mixed Fruit Juice,140,2,0.4,34
 Coca-Cola,140,0,0,39
 Pepsi,150,0,0,41
 Sprite,140,0,0,38
@@ -130,3 +129,21 @@ Red Bull,160,1,0,40
 Monster Energy,210,1,0,54
 Club Soda,0,0,0,0
 Sparkling Water,5,0,0,0
+Beer,29,0.2,0,1.6
+Wine,83,0.1,0,2.6
+Champagne,64,0,0,1.5
+Whiskey,222,0,0,0
+Vodka,222,0,0,0
+Rum,231,0,0,0
+Gin,231,0,0,0
+Tequila,222,0,0,0
+Brandy,230,0,0,0
+Cider,57,0,0,5.9
+Sake,134,0,0,5
+Margarita,114,0,0,15
+Pina Colada,174,0.4,5.0,13
+Whiskey & Cola,80,0,0,7.5
+Vodka & Orange,95,0,0,10
+Gin & Tonic,75,0,0,7
+Mojito,70,0,0,6.5
+Bloody Mary,52,0.3,0,2.8
