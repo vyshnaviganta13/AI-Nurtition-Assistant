@@ -1,0 +1,117 @@
+Food,Calories,Protein,Fat,Carbs
+Biryani,290,9,12.0,35
+Paneer Butter Masala,350,12,28.0,15
+Dal Tadka,180,10,8.0,20
+Chole Bhature,450,13,20.0,55
+Idli,70,2,0.5,15
+Dosa,170,3,6.0,28
+Vada Pav,300,6,12.0,40
+Pav Bhaji,250,7,10.0,32
+Rajma Chawal,310,12,8.0,45
+Aloo Paratha,320,6,15.0,40
+Masala Dosa,210,5,8.0,30
+Poha,150,3,4.0,27
+Upma,180,4,6.0,30
+Samosa,260,5,14.0,29
+Pani Puri,150,3,6.0,22
+Chicken Curry,270,20,18.0,7
+Mutton Curry,320,22,25.0,5
+Fish Curry,220,19,12.0,6
+Butter Naan,280,8,12.0,40
+Roti,110,3,2.0,20
+Plain Rice,130,2,0.0,28
+Curd Rice,150,4,4.0,24
+Hyderabadi Haleem,350,18,15.0,40
+Kesari Bath,200,4,6.0,32
+Gulab Jamun,300,4,14.0,45
+Rasgulla,250,5,8.0,40
+Kheer,280,6,10.0,42
+Lassi,180,6,5.0,28
+Jalebi,310,4,10.0,55
+Pakora,220,6,12.0,24
+Pulao,250,6,8.0,40
+Khichdi,200,7,5.0,32
+Thepla,150,4,5.0,22
+Sabudana Khichdi,230,3,6.0,40
+Dhokla,150,6,4.0,22
+Misal Pav,300,10,14.0,38
+Bhel Puri,180,4,6.0,28
+Sev Puri,200,5,8.0,30
+Pesarattu,160,7,4.0,26
+Rava Dosa,190,5,6.0,32
+Pizza,266,11,10.0,33
+Pasta,131,8,6.0,35
+Carbonara,350,12,15.0,45
+Burger,295,15,14.0,30
+Hot Dog,270,11,16.0,24
+French Fries,312,3,15.0,41
+Fried Chicken,320,20,20.0,15
+Grilled Chicken,200,30,8.0,0
+Steak,250,26,15.0,0
+Salmon,210,22,13.0,0
+Sushi,140,8,4.0,22
+Ramen,280,10,12.0,35
+Tacos,220,12,10.0,25
+Burrito,300,14,12.0,38
+Nachos,290,8,15.0,32
+Quesadilla,320,12,18.0,28
+Falafel,230,10,12.0,24
+Shawarma,280,18,12.0,26
+Hummus,180,6,8.0,20
+Pita Bread,170,6,2.0,34
+Caesar Salad,180,7,12.0,15
+Greek Salad,120,4,8.0,10
+Avocado Toast,250,6,12.0,30
+Pancakes,220,6,8.0,32
+Waffles,250,7,10.0,35
+Omelette,154,11,12.0,1
+Scrambled Eggs,150,10,11.0,2
+Frittata,200,13,15.0,4
+Croissant,230,5,12.0,26
+Bagel,250,9,2.0,48
+Donut,300,4,15.0,40
+Muffin,320,5,14.0,45
+Brownie,350,4,18.0,50
+Ice Cream,200,4,11.0,28
+Cheesecake,320,7,20.0,32
+Chocolate Cake,340,6,15.0,48
+Apple Pie,270,3,12.0,40
+Pudding,210,5,8.0,32
+Custard,220,7,9.0,30
+Milkshake,280,8,12.0,36
+Smoothie,200,6,5.0,34
+Sandwich,250,12,10.0,28
+Club Sandwich,280,14,12.0,30
+BLT Sandwich,300,16,14.0,32
+Grilled Cheese,270,10,15.0,28
+Mac and Cheese,320,12,18.0,36
+Lasagna,350,14,20.0,40
+Spaghetti Bolognese,330,15,12.0,45
+Risotto,300,10,10.0,42
+Quiche,290,12,18.0,26
+Soup,150,6,5.0,20
+Clam Chowder,250,10,15.0,28
+Chili Con Carne,280,18,12.0,28
+Gnocchi,260,8,6.0,48
+Couscous,200,6,2.0,38
+coconut water,19,0.7,0.2,3.7
+Orange Juice,110,2,0.5,26
+Apple Juice,120,0,0.3,30
+Grape Juice,150,1,0.2,38
+Pineapple Juice,130,1,0.2,33
+Mango Juice,140,1,0.4,35
+Carrot Juice,90,2,0.3,22
+Beetroot Juice,100,3,0.2,23
+Tomato Juice,80,2,0.4,18
+Watermelon Juice,85,1,0.2,21
+Pomegranate Juice,135,2,0.3,34
+Cranberry Juice,120,1,0.2,31
+Papaya Juice,95,1,0.1,24
+Kiwi Juice,105,2,0.5,25
+Strawberry Juice,115,1,0.3,27
+Blueberry Juice,125,1,0.3,29
+Guava Juice,100,2,0.2,23
+Lemon Juice (Sweetened),90,1,0.1,22
+Peach Juice,110,1,0.2,26
+Pear Juice,115,1,0.2,27
+Mixed Fruit Juice,140,2,0.4,34
