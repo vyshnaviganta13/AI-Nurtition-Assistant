@@ -1,7 +1,7 @@
-tensorflow
-keras
-numpy
-pandas
 streamlit
+pandas
+numpy
 pillow
-request
+tensorflow
+scikit-learn
+
