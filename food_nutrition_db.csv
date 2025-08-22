@@ -111,7 +111,22 @@ Kiwi Juice,105,2,0.5,25
 Strawberry Juice,115,1,0.3,27
 Blueberry Juice,125,1,0.3,29
 Guava Juice,100,2,0.2,23
-Lemon Juice (Sweetened),90,1,0.1,22
+Lemon Juice,90,1,0.1,22
 Peach Juice,110,1,0.2,26
 Pear Juice,115,1,0.2,27
 Mixed Fruit Juice,140,2,0.4,34
+Coca-Cola,140,0,0,39
+Pepsi,150,0,0,41
+Sprite,140,0,0,38
+7 Up,150,0,0,39
+Fanta Orange,160,0,0,44
+Mountain Dew,170,0,0,46
+Dr Pepper,150,0,0,40
+RC Cola,145,0,0,39
+Coca-Cola Zero,1,0,0,0
+Pepsi Max,1,0,0,0
+Diet Sprite,0,0,0,0
+Red Bull,160,1,0,40
+Monster Energy,210,1,0,54
+Club Soda,0,0,0,0
+Sparkling Water,5,0,0,0
